@@ -1,4 +1,4 @@
-<p><strong>Windows Elevation of Privilege Vulnerability CVE-2021-36934</strong></p>
+<p><strong>Windows Elevation of Privilege Vulnerability CVE-2021-36934&nbsp; &nbsp;#SeriousSAM</strong></p>
 <p>Description see MS article:&nbsp;<a href="https://msrc.microsoft.com/update-guide/vulnerability/CVE-2021-36934">https://msrc.microsoft.com/update-guide/vulnerability/CVE-2021-36934</a></p>
 <p>&nbsp;</p>
 <p><strong><u>To deploy the workaround via GPO</u></strong></p>
